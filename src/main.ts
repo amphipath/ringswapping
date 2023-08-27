@@ -24,7 +24,11 @@ for (const skill of skillData) {
     "#content" + skill.id.toString()
   );
 
-  accordionButton.innerHTML = `<img src="/skillicons/${skill.id}.icon.png" class="me-2" /> ${skill.name}`;
+  const skillIcon = document.createElement("img");
+  skillIcon.src = `/skillicons/${skill.id}.icon.png`;
+  skillIcon.className = "me-2";
+  accordionButton.appendChild(skillIcon);
+  accordionButton.appendChild(document.createTextNode(skill.name));
   accordionHeader.appendChild(accordionButton);
 
   const accordionContent = document.createElement("div");
