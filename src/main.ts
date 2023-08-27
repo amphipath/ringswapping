@@ -25,7 +25,7 @@ for (const skill of skillData) {
   );
 
   const skillIcon = document.createElement("img");
-  const imgUrl = new URL("./skillicons/${skill.id}.icon.png", import.meta.url)
+  const imgUrl = new URL(`./skillicons/${skill.id}.icon.png`, import.meta.url)
     .href;
   skillIcon.src = imgUrl;
   skillIcon.className = "me-2";
