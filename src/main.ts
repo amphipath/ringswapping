@@ -45,12 +45,12 @@ for (const skill of skillData) {
   accordionBody.innerHTML = `<div>
     <strong>MSEA</strong>
     <br />
-    <video src="${skill.mseaVideoUrl}" loop autoplay height=300 />
+    <video src="${skill.mseaVideoUrl}" loop="true" autoplay height=300 />
     </div>
     <div>
     <strong>KMS</strong>
     <br />
-    <video src="${skill.kmsVideoUrl}" loop autoplay height=300 />
+    <video src="${skill.kmsVideoUrl}" loop="true" autoplay height=300 />
     </div>
     `;
 
