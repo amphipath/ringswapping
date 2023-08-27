@@ -3,21 +3,24 @@
   <head>
     <meta charset="UTF-8" />
     <link rel="icon" type="image/svg+xml" href="/icon.png" />
+    <link rel="stylesheet" href="src/style.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Bug Report Videos</title>
   </head>
   <body>
-    <div id="app"></div>
-    <h1>Bug Report</h1>
-    <p>In MapleStory, changing equipment is restricted when direct attacking skills are used. Attempting to do so produces an error message in the middle of the screen.</p>
-    <img src="/errorbox.png"/>
-    <p>However, in MapleSEA exclusively, there are many non-direct attacking skills that disable equipment changing, even though they should not.
-      The reason why they shouldn't is because in Korea MapleStory (KMS), the base game, these skills do not disable equipment changing.
-      In MapleSEA, this erroneous behaviour manifests as a chatbox message alerting us that we cannot change equips for 5 seconds after these skills do damage.
-      This message <span style="font-weight:bold">does not exist</span> in KMS because this behaviour does not exist in KMS, and should be fixed.
-    </p>
-    <img src="/chatmessage.png" />
-    <p>The following is a compiled list of evidence of these malfunctioning skills in MSEA, and their correct expected behaviour in KMS.</p>
-    <script type="module" src="/src/main.ts"></script>
+    <div id="app" class="container p-2 mt-3">
+      
+      <h1 class="fw-bold">Bug Report</h1>
+      <p>In MapleStory, changing equipment is restricted when direct attacking skills are used. Attempting to do so produces an error message in the middle of the screen.</p>
+      <img src="/errorbox.png"/>
+      <p>However, in MapleSEA exclusively, there are many non-direct attacking skills that disable equipment changing, even though they should not.
+        The reason why they shouldn't is because in Korea MapleStory (KMS), the base game, these skills do not disable equipment changing.
+        In MapleSEA, this erroneous behaviour manifests as a chatbox message alerting us that we cannot change equips for 5 seconds after these skills do damage.
+        This message <span style="font-weight:bold">does not exist</span> in KMS because this behaviour does not exist in KMS, and should be fixed.
+      </p>
+      <img src="/chatmessage.png" />
+      <p>The following is a compiled list of evidence of these malfunctioning skills in MSEA, and their correct expected behaviour in KMS.</p>
+    </div>
+      <script type="module" src="/src/main.ts"></script>
   </body>
 </html>
