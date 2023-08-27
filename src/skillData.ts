@@ -19,7 +19,7 @@ const skillData: SkillData[] = [
     kmsVideoUrl: "",
   },
   {
-    id: 22111012,
+    id: 22141012,
     name: "Dragon Dive",
     mseaVideoUrl: "https://i.imgur.com/RoRRAC4.mp4",
     kmsVideoUrl: "",
