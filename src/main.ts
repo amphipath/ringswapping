@@ -1,7 +1,6 @@
 // Import our custom CSS
 import "./scss/styles.scss";
 import skillData from "./skillData";
-import * as bootstrap from "bootstrap";
 
 const accordion = document.getElementById("skillList") as HTMLDivElement;
 
