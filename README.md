@@ -21,4 +21,4 @@ When recording, take note of the following:
 - When recording the non-bugged (KMS) state, make sure to demonstrate that it is possible to change equips as soon as the character is in a resting state; don't wait too long after. The important thing here is that we want to capture the convenience of KMS where we can ring-swap ASAP, and that this error in MSEA is inhibiting that.
 - For cleanliness of presentation, avoid changing equips in combat state (producing the blue window in the middle of the screen), which will muddle up the bug report.
 
-If using ShareX, record as .mp4 and upload to imgur. Do not record as .gif as it will increase file size dramatically, which will affect the loading of the page.
+If using ShareX, record as .mp4 and upload to Discord (just uploading it in any server in Discord and then sharing the `cdn.discordapp.com` link is fine). Do not record as .gif as it will increase file size dramatically, which will affect the loading of the page.
