@@ -29,7 +29,9 @@ for (const skill of skillData) {
     .href;
   skillIcon.src = imgUrl;
   skillIcon.className = "me-2";
-  accordionButton.appendChild(skillIcon);
+  if (skill.id) {
+    accordionButton.appendChild(skillIcon);
+  }
   accordionButton.appendChild(document.createTextNode(skill.name));
   accordionHeader.appendChild(accordionButton);
 
