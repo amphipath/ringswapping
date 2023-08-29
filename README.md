@@ -16,6 +16,7 @@ It is recommended to use ShareX to easily record videos at high quality, since i
 
 When recording, take note of the following:
 
+- Try to isolate the source of damage. E.g. if you're trying to show that Eunwol's Fox Spirits causes the issue, have a good 2-3 seconds where a Fox Spirit is bouncing and no other attack is hitting the enemy so that it's clear that the issue is being caused by Fox Spirits.
 - If recording the bugged (MSEA) state, make sure that the chatbox doesn't already have the message so that it's clearer that the erroneous message is popping out.
 - Make sure that you record at least one attempt to change equips while your character is at a resting (non-combat) state, and that the message pops up when you do so.
 - When recording the non-bugged (KMS) state, make sure to demonstrate that it is possible to change equips as soon as the character is in a resting state; don't wait too long after. The important thing here is that we want to capture the convenience of KMS where we can ring-swap ASAP, and that this error in MSEA is inhibiting that.
