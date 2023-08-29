@@ -11,7 +11,8 @@ const skillData: SkillData[] = [
     name: "Misc - when under poison status effect",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146086523331154031/MapleStory_u1de6o3axZ.mp4",
-    kmsVideoUrl: "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Poison+Damage.mp4",
+    kmsVideoUrl:
+      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Poison+Damage.mp4",
   },
   {
     id: 22111012,
@@ -114,14 +115,16 @@ const skillData: SkillData[] = [
     name: "Breath of Earth",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146085860580806878/breath_of_earth.mp4",
-    kmsVideoUrl: "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Breath+of+Earth.mp4",
+    kmsVideoUrl:
+      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Breath+of+Earth.mp4",
   },
   {
     id: 22170066,
     name: "Breath of Wind",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146085859985211402/breath_of_wind.mp4",
-    kmsVideoUrl: "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Breath+of+Wind.mp4",
+    kmsVideoUrl:
+      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Breath+of+Wind.mp4",
   },
   {
     id: 25101009,
@@ -131,7 +134,7 @@ const skillData: SkillData[] = [
     kmsVideoUrl: "",
   },
   {
-    id: 25101009,
+    id: 400051010,
     name: "Spirit Concentration (when activating Spirit Incarnation)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146123624651161691/spirit_concentration.mp4",
