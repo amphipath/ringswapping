@@ -18,7 +18,7 @@ const skillData: SkillData[] = [
     name: "Swift of Wind",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047360112279622/swift_of_wind.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl: "https://youtu.be/uncTdN1SuSc",
   },
   {
     id: 22141012,
