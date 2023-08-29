@@ -123,6 +123,20 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/250923759307849728/1146085859985211402/breath_of_wind.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 25101009,
+    name: "Fox Spirits / Fire Fox Spirit Mastery",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/248315264104529920/1146121550794326026/fox_spirit.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 25101009,
+    name: "Spirit Concentration (when activating Spirit Incarnation)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146123624651161691/spirit_concentration.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
