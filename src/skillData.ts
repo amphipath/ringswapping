@@ -147,6 +147,8 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146256651482046465/phalanx.mp4",
     kmsVideoUrl: "",
+    remarks:
+      "Note: Guided Arrow is attacking here, but it has previously been fixed and no longer causes the issue.",
   },
   {
     id: 400031022,

@@ -39,6 +39,11 @@ for (const skill of skillData) {
   accordionContent.className = "accordion-collapse collapse";
   accordionContent.setAttribute("aria-labelledby", accordionHeader.id);
   accordionContent.id = "content" + skill.id.toString();
+  if (skill.remarks) {
+    const remarksElement = document.createElement("p");
+    remarksElement.innerText = skill.remarks;
+    accordionContent.appendChild(remarksElement);
+  }
 
   const accordionBody = document.createElement("div");
   accordionBody.className =
