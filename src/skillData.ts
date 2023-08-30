@@ -140,6 +140,34 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146123624651161691/spirit_concentration.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 400001018,
+    name: "Cygnus Phalanx",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146256651482046465/phalanx.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031022,
+    name: "Frenzied Winds",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146257401222266960/frenzied.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031058,
+    name: "Vortex Sphere",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146258403216339024/vortex.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031003,
+    name: "Howling Gale",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146259058177888286/howling.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
