@@ -3,6 +3,7 @@ type SkillData = {
   name: string;
   mseaVideoUrl: string;
   kmsVideoUrl: string;
+  remarks?: string;
 };
 
 const skillData: SkillData[] = [
