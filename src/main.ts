@@ -40,7 +40,8 @@ for (const skill of skillData) {
   accordionContent.setAttribute("aria-labelledby", accordionHeader.id);
   accordionContent.id = "content" + skill.id.toString();
   if (skill.remarks) {
-    const remarksElement = document.createElement("p");
+    const remarksElement = document.createElement("div");
+    remarksElement.className = "container";
     remarksElement.innerText = skill.remarks;
     accordionContent.appendChild(remarksElement);
   }
