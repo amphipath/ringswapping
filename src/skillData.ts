@@ -171,6 +171,64 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146259058177888286/howling.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 3101009,
+    name: "Quiver Cartridge (Magic Arrow)",
+    remarks:
+      "Guided Arrow is attacking here, but it does not cause the issue, so Magic Arrow is the only other cause.",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146756434617442324/magicarrow.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 3111013,
+    name: "Arrow Platter (Install)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146757211176063077/arrowplatter.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 3111015,
+    name: "Flash Mirage",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146243552054099998/flash_mirage.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031053,
+    name: "Silhouette Mirage",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146757701431468093/silhouette.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031020,
+    name: "Illusionary Shot",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146758280463532142/illusionary.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031002,
+    name: "Arrow Rain",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146758636484427887/arrowrain.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 4211006,
+    name: "Meso Explosion",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146243553639538688/mexp.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 4221019,
+    name: "Meso Explosion (Enhanced)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146243552918110238/enhanced_mexp.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
