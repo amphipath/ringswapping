@@ -251,7 +251,7 @@ const skillData: SkillData[] = [
     kmsVideoUrl: "",
   },
   {
-    id: 162110005,
+    id: 162111005,
     name: "Waking Up",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146890545176780941/Waking_Up.mp4",
