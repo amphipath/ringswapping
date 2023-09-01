@@ -259,14 +259,14 @@ const skillData: SkillData[] = [
   },
   {
     id: 162120005,
-    name: "Absorbtion: Sound of Wind",
+    name: "Absorption: Sound of Wind",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146816916296568902/Absorb_Wind.mp4",
     kmsVideoUrl: "",
   },
   {
     id: 162120008,
-    name: "Absorbtion: Sunlight Bud",
+    name: "Absorption: Sunlight Bud",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146817685829714000/Absorb_Sun.mp4",
     kmsVideoUrl: "",
