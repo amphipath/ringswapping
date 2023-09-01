@@ -229,6 +229,62 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146243552918110238/enhanced_mexp.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 162100002,
+    name: "Eruption: Rippling River",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146815874204958750/Erupt_Water.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 162100005,
+    name: "Eruption: Whirlwind",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146773620073431160/Erupt_Wind.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 162100008,
+    name: "Eruption: Sunrise Pond",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146816287318753350/Erupt_Sun.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 162110005,
+    name: "Waking Up",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146890545176780941/Waking_Up.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 162120005,
+    name: "Absorbtion: Sound of Wind",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146816916296568902/Absorb_Wind.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 162120008,
+    name: "Absorbtion: Sunlight Bud",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146817685829714000/Absorb_Sun.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021122,
+    name: "Elemental Explosion",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146890953169317898/Stretch.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021129,
+    name: "Soaring Spirit",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1146891451192578188/SSpirit.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
