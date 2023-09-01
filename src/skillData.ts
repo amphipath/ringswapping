@@ -285,6 +285,126 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146891451192578188/SSpirit.mp4",
     kmsVideoUrl: "",
   },
+
+  {
+    id: 13121055,
+    name: "Storm Winds",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179163766247524/stormwinds.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 65121052,
+    name: "Supreme Supernova",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179164521218058/supernova.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031062,
+    name: "Thanatos's Descent (Arrows of Death)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179165934686308/thanatosarrows.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 13101022,
+    name: "Trifling Winds",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179166693871737/triflingwind.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051072,
+    name: "Trinity Fusion",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179167478202561/trinityfusion.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041089,
+    name: "Resonate: Ultimatum",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179168203804692/ultimatum.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 63100104,
+    name: "[Revelation] Scattering Shot",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179220771016714/pscatter.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 63110103,
+    name: "[Revelation] Shaft Break",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179222067052544/pshaft.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154110001,
+    name: "Resonate",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179222897537125/resonate.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 63111003,
+    name: "Shaft Break",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179223895769160/shaft_break.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 65111007,
+    name: "Soul Seeker",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179224600424518/soulseeker.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051018,
+    name: "Spotlight",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179225527357560/spotlight.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 63101005,
+    name: "Dragon Fang",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179305252688014/dragonfang.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031066,
+    name: "Grip of Agony",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179306183835678/grip.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041082,
+    name: "Hex: Pandemonium",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147179307454693396/pandemonium.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 65121011,
+    name: "Soul Seeker Expert",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191582622240858/soulseekerexpert.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
