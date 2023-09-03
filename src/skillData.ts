@@ -407,37 +407,37 @@ const skillData: SkillData[] = [
   },
   {
     id: 61121105,
-    name: "Inferno Breath: Trail of Fire",
+    name: "Inferno Breath (Trail of Fire)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147902691679416361/2023-09-03_22-25-18.mp4",
     kmsVideoUrl: "",
   },
   {
-    id: 154121001,
-    name: "Hex: Chakram Sweep",
+    id: 400011118,
+    name: "Dragon Inferno (Fireball)",
     mseaVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147902692925128834/2023-09-03_22-27-13.mp4",
     kmsVideoUrl: "",
   },
   {
-    id: 154121001,
-    name: "Hex: Chakram Sweep",
+    id: 61111100,
+    name: "Wingbeat",
     mseaVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147902694179229746/2023-09-03_22-27-38.mp4",
     kmsVideoUrl: "",
   },
   {
-    id: 154121001,
-    name: "Hex: Chakram Sweep",
+    id: 400011058,
+    name: "Tempest Blades: Devastate",
     mseaVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147902695840165968/2023-09-03_22-29-48.mp4",
     kmsVideoUrl: "",
   },
   {
-    id: 154121001,
-    name: "Hex: Chakram Sweep",
+    id: 61101009,
+    name: "Tempest Blades: Charge",
     mseaVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147902696813248542/2023-09-03_22-33-30.mp4",
     kmsVideoUrl: "",
   },
   {
