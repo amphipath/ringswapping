@@ -405,6 +405,69 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 61121105,
+    name: "Inferno Breath: Trail of Fire",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147902691679416361/2023-09-03_22-25-18.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 154121001,
+    name: "Hex: Chakram Sweep",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
