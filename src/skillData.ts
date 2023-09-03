@@ -441,31 +441,45 @@ const skillData: SkillData[] = [
     kmsVideoUrl: "",
   },
   {
-    id: 154121001,
-    name: "Hex: Chakram Sweep",
+    id: 400011134,
+    name: "Ego Weapon (Alpha)",
     mseaVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147905320996306944/2023-09-03_22-38-43.mp4",
     kmsVideoUrl: "",
   },
   {
-    id: 154121001,
-    name: "Hex: Chakram Sweep",
+    id: 400011135,
+    name: "Ego Weapon (Beta)",
     mseaVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147905321784856656/2023-09-03_22-39-06.mp4",
     kmsVideoUrl: "",
   },
   {
-    id: 154121001,
-    name: "Hex: Chakram Sweep",
+    id: 101120104,
+    name: "Advanced Earth Break (Static Field)",
     mseaVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147905322602737694/2023-09-03_22-40-29.mp4",
     kmsVideoUrl: "",
   },
   {
-    id: 154121001,
-    name: "Hex: Chakram Sweep",
+    id: 101120204,
+    name: "Advanced Storm Break (Static Field)",
     mseaVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1147191583184257164/chakramsweep.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147905324079120584/2023-09-03_22-41-13.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051015,
+    name: "Serpent Screw",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147918246264185033/serpent_screw.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400011124,
+    name: "Sword Illusion",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1147918823102631946/test.mp4",
     kmsVideoUrl: "",
   },
 ];
