@@ -220,14 +220,16 @@ const skillData: SkillData[] = [
     name: "Meso Explosion",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146243553639538688/mexp.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/687364480337969177/1148600490100269116/KMS-meso-explosion.mp4",
   },
   {
     id: 4221019,
     name: "Meso Explosion (Enhanced)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146243552918110238/enhanced_mexp.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/687364480337969177/1148600490880417842/KMS-enh-meso-explosion.mp4",
   },
   {
     id: 162100002,
