@@ -484,6 +484,34 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147918823102631946/test.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 400041048,
+    name: "Mystic Energy: Extreme Immolation",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1148599892604883035/clonerampage.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041052,
+    name: "Mystic Energy: Advent of Rebellious Power (Advent of the Gods)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1148599891979948053/advent.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041063,
+    name: "Mystic Energy: Illusion of Heaven, Earth and Human",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1148599893334708274/heavenhumanearth.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 164101003,
+    name: "Phantasmal Clone Talisman",
+    mseaVideoUrl:
+      "hhttps://cdn.discordapp.com/attachments/1146108616076693655/1148599894219690126/talismanclone.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
