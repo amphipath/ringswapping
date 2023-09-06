@@ -519,6 +519,14 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148637805854076988/nw.mp4",
     kmsVideoUrl: "",
   },
+
+  {
+    id: 14110033,
+    name: "Enhanced Shadow Bat",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1148917720872669184/shadowbatenhance.mp4",
+    kmsVideoUrl: "",
+  },
   {
     id: 14121016,
     name: "Ravenous Bat",
