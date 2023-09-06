@@ -512,6 +512,20 @@ const skillData: SkillData[] = [
       "hhttps://cdn.discordapp.com/attachments/1146108616076693655/1148599894219690126/talismanclone.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 14001027,
+    name: "Shadow Bat",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1148637805854076988/nw.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 14121016,
+    name: "Ravenous Bat",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1148638539035193404/ravenous.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
