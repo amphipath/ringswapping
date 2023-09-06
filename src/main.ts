@@ -32,7 +32,18 @@ for (const skill of skillData) {
   if (skill.id) {
     accordionButton.appendChild(skillIcon);
   }
-  accordionButton.appendChild(document.createTextNode(skill.name));
+  const skillName = document.createElement("p");
+  skillName.className = "mb-0";
+  skillName.innerText = skill.name;
+  accordionButton.appendChild(skillName);
+  if (skill.id) {
+    const skillId = document.createElement("p");
+    const skillIdSmall = document.createElement("small");
+    skillIdSmall.innerText = `(${skill.id})`;
+    skillId.className = "text-secondary ms-2 mb-0";
+    skillId.appendChild(skillIdSmall);
+    accordionButton.appendChild(skillId);
+  }
   accordionHeader.appendChild(accordionButton);
 
   const accordionContent = document.createElement("div");
