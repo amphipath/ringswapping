@@ -21,7 +21,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047457910849616/swiftofwind.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Dragon+Swift.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170229963259925/dragonswift.mp4",
   },
   {
     id: 22110014,
@@ -29,7 +29,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047360112279622/swift_of_wind.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Swift+of+Wind.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170108575928471/swiftofwind.mp4",
   },
   {
     id: 22141012,
@@ -37,7 +37,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047461580873798/dragon_dive.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Dragon+Dive.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170229275406366/dragondive.mp4",
   },
   {
     id: 22140015,
@@ -45,7 +45,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047462759465031/dive_of_thunder.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Dive+of+Thunder.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170107208585216/diveofthunder.mp4",
   },
   {
     id: 22171063,
@@ -53,7 +53,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047462142918776/dragon_breath.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Dragon+Breath.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170228138741780/dragonbreath.mp4",
   },
   {
     id: 22141017,
@@ -61,7 +61,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047358291951646/magic_residue.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Magic+Residue.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153171298093113435/magicresidue.mp4",
   },
   {
     id: 22170064,
@@ -69,7 +69,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146048054412197978/breath_-_come_back.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Dragon+Breath+-+Come+Back.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170228675608606/dragonbreathcomeback.mp4",
   },
   {
     id: 400021046,
@@ -77,7 +77,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047358866575360/dragon_break.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Dragon+Break.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170226494570516/dragonbreak.mp4",
   },
   {
     id: 400020051,
@@ -85,7 +85,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047359504101446/break_-_return.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Dragon+Break+-+Come+Back.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170227379581018/dragonbreakcomeback.mp4",
   },
   {
     id: 400020046,
@@ -93,7 +93,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047355955728476/imp_breath.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Imperial+Breath.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153171137853927514/KMS_-_Imperial_Breath.mp4",
   },
   {
     id: 22170067,
@@ -101,7 +101,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047356769419264/dive_of_earth.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Dive+of+Earth.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170106046758922/diveofearth.mp4",
   },
   {
     id: 22140014,
@@ -109,7 +109,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146047357482455122/swift_of_thunder.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Swift+of+Thunder.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170107753840721/swiftofthunder.mp4",
   },
   {
     id: 22170065,
@@ -117,7 +117,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146085860580806878/breath_of_earth.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Breath+of+Earth.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170103672782848/breathofearth.mp4",
   },
   {
     id: 22170066,
@@ -125,21 +125,23 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/250923759307849728/1146085859985211402/breath_of_wind.mp4",
     kmsVideoUrl:
-      "https://equipment-swapping.s3.ap-southeast-1.amazonaws.com/KMS+-+Breath+of+Wind.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170105191116810/breathofwind.mp4",
   },
   {
     id: 25101009,
     name: "Fox Spirits / Fire Fox Spirit Mastery",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/248315264104529920/1146121550794326026/fox_spirit.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170952562151524/foxspirit.mp4",
   },
   {
     id: 400051010,
     name: "Spirit Concentration (when activating Spirit Incarnation)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146123624651161691/spirit_concentration.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153170954999050381/spiritconc.mp4",
   },
   {
     id: 400001018,
@@ -148,7 +150,7 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146256651482046465/phalanx.mp4",
     kmsVideoUrl: "",
     remarks:
-      "Note: Guided Arrow is attacking here, but it has previously been fixed and no longer causes the issue.",
+      "Note: Guided Arrow is attacking in the MSEA clip, but it has previously been fixed and no longer causes the issue.",
   },
   {
     id: 400031022,
@@ -175,24 +177,27 @@ const skillData: SkillData[] = [
     id: 3101009,
     name: "Quiver Cartridge (Magic Arrow)",
     remarks:
-      "Guided Arrow is attacking here, but it does not cause the issue, so Magic Arrow is the only other cause.",
+      "Guided Arrow is attacking in the MSEA clip, but it does not cause the issue, so Magic Arrow is the only other cause.",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146756434617442324/magicarrow.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153166844035878962/flashmiragemagicarrow.mp4",
   },
   {
     id: 3111013,
     name: "Arrow Platter (Install)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146757211176063077/arrowplatter.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153166843343806505/arrowplatter.mp4",
   },
   {
     id: 3111015,
     name: "Flash Mirage",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146243552054099998/flash_mirage.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153166844035878962/flashmiragemagicarrow.mp4",
   },
   {
     id: 400031053,
@@ -236,56 +241,64 @@ const skillData: SkillData[] = [
     name: "Eruption: Rippling River",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146815874204958750/Erupt_Water.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153174120268304414/rivererupt.mp4",
   },
   {
     id: 162100005,
     name: "Eruption: Whirlwind",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146773620073431160/Erupt_Wind.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153174119475597372/eruptwind.mp4",
   },
   {
     id: 162100008,
     name: "Eruption: Sunrise Pond",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146816287318753350/Erupt_Sun.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153174118540263484/eruptsun.mp4",
   },
   {
     id: 162111005,
     name: "Waking Up",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146890545176780941/Waking_Up.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153174149066399754/wakingup.mp4",
   },
   {
     id: 162120005,
     name: "Absorption: Sound of Wind",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146816916296568902/Absorb_Wind.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153174117353263154/absorbwind.mp4",
   },
   {
     id: 162120008,
     name: "Absorption: Sunlight Bud",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146817685829714000/Absorb_Sun.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153174116506025984/absorbsun.mp4",
   },
   {
     id: 400021122,
     name: "Elemental Explosion",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146890953169317898/Stretch.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153174147426439210/bigstretch.mp4",
   },
   {
     id: 400021129,
     name: "Soaring Spirit",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146891451192578188/SSpirit.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153174148282073149/soaringspirit.mp4",
   },
 
   {
@@ -300,7 +313,8 @@ const skillData: SkillData[] = [
     name: "Supreme Supernova",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179164521218058/supernova.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153165555520520222/supernova.mp4",
   },
   {
     id: 400031062,
@@ -321,7 +335,8 @@ const skillData: SkillData[] = [
     name: "Trinity Fusion",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179167478202561/trinityfusion.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153165556426485923/trinityfusion.mp4",
   },
   {
     id: 400041089,
@@ -363,14 +378,16 @@ const skillData: SkillData[] = [
     name: "Soul Seeker",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179224600424518/soulseeker.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153165552198619136/soulseeker.mp4",
   },
   {
     id: 400051018,
     name: "Spotlight",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179225527357560/spotlight.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153165554329325660/spotlight.mp4",
   },
   {
     id: 63101005,
@@ -398,7 +415,8 @@ const skillData: SkillData[] = [
     name: "Soul Seeker Expert",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147191582622240858/soulseekerexpert.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153165552848744488/soulseekerexpert.mp4",
   },
   {
     id: 154121001,
@@ -447,28 +465,32 @@ const skillData: SkillData[] = [
     name: "Ego Weapon (Alpha)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147905320996306944/2023-09-03_22-38-43.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153171944850608159/egoa.mp4",
   },
   {
     id: 400011135,
     name: "Ego Weapon (Beta)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147905321784856656/2023-09-03_22-39-06.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153171945572016238/egob.mp4",
   },
   {
     id: 101120104,
     name: "Advanced Earth Break (Static Field)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147905322602737694/2023-09-03_22-40-29.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153171944015929394/earthbreak.mp4",
   },
   {
     id: 101120204,
     name: "Advanced Storm Break (Static Field)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147905324079120584/2023-09-03_22-41-13.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153171946289254430/stormbreak.mp4",
   },
   {
     id: 400051015,
@@ -489,7 +511,8 @@ const skillData: SkillData[] = [
     name: "Mystic Energy: Extreme Immolation",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148599892604883035/clonerampage.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153171462040064021/clone.mp4",
   },
   {
     id: 400041052,
