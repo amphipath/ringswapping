@@ -557,6 +557,35 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148638539035193404/ravenous.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 400011010,
+    name: "Demon Frenzy",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1150850115620319313/MapleStory_USB49PE0Mg.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400011065,
+    name: "Elysion (Crack)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153327938402537583/elysionrift.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 11121018,
+    name: "Cosmic Burst",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153327937261670530/cosmicburst.mp4",
+    kmsVideoUrl: "",
+    remarks: "Also applies to the auto-cast",
+  },
+  {
+    id: 15100027,
+    name: "Sea Wave",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1153327939451097120/seawave.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
