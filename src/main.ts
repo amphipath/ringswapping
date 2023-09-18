@@ -1,4 +1,5 @@
 // Import our custom CSS
+import { displaySkill, getImage } from "./functions";
 import "./scss/styles.scss";
 import skillData from "./skillData";
 
@@ -8,12 +9,9 @@ for (const skill of skillData) {
   const link = document.createElement("a");
   link.className =
     "d-flex flex-row list-group-item list-group-item-action align-items-center";
-  const skillIcon = document.createElement("img");
-  const imgUrl = new URL(`./skillicons/${skill.id}.icon.png`, import.meta.url)
-    .href;
+
   if (skill.id) {
-    skillIcon.src = imgUrl;
-    skillIcon.className = "me-2";
+    const skillIcon = getImage(skill);
     link.appendChild(skillIcon);
   }
   const skillName = document.createElement("p");
@@ -28,6 +26,7 @@ for (const skill of skillData) {
     skillId.appendChild(skillIdSmall);
     link.appendChild(skillId);
   }
+  link.onclick = () => displaySkill(skill);
   skillSelect.appendChild(link);
   // const accordionItem = document.createElement("div");
   // accordionItem.className = "accordion-item";
