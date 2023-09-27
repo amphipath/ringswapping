@@ -578,6 +578,223 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1153327939451097120/seawave.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 0,
+    name: "Getting hit by self-destructing summons",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453263667892234/hitbyantiafk.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 5201012,
+    name: "Summon Crew",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453264410279957/summoncrew.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051040,
+    name: "Nautilus Assault",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453265110749267/nautilusassault.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051073,
+    name: "Death Trigger",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453266004119622/deathtrigger.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041069,
+    name: "72 Transformations",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453266729730079/72t.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 4121017,
+    name: "Showdown Challenge (Shurikens)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453267396644934/showdown.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 2311015,
+    name: "Triumph Feather",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453268126437406/triumphfeather.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021030,
+    name: "Thunder Break",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453268784939038/thunderbreak.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041038,
+    name: "Dark Lord's Secret Scroll (Shurikens)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453269623820399/secretscroll.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031036,
+    name: "Raven Tempest",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453270500413491/raventempest.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051074,
+    name: "Crater Maker",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453293678133388/poolmaker.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021101,
+    name: "Poison Pandemic",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453294428930098/poisonpandemic.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021028,
+    name: "Poison Nova",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453295045488680/poisonnova.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051038,
+    name: "Special Monkey Escort (Monkey Bomb)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453295678816306/specialmonkeyescort.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 5311010,
+    name: "Monkey's Fury",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453296278618173/monkeyfury.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400011131,
+    name: "Mighty Mjolnir",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453297083920404/mightymjolnir.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 4120018,
+    name: "Mark of Night Lord",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453297683693639/markofnl.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021094,
+    name: "Jupiter Thunder",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453298447073310/jupiterthunder.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 2101010,
+    name: "Ignite",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453299101380639/ignite.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021002,
+    name: "Ice Age",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453299705348126/iceage.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041020,
+    name: "Fuma Shuriken",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453346111144026/fuuma.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 2221012,
+    name: "Frozen Orb",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453346887082054/frozenorb.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 2121054,
+    name: "Fire Aura",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453347457499176/fireaura.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031039,
+    name: "Obsidian Barrier (Blast)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453348338319441/blastbarrier.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051008,
+    name: "Big Fuse Gigantic Cannonball",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453349084897352/bfg.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 3301008,
+    name: "Split Mistel (Magic Arrows)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453349844058183/splitmistel.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 2201009,
+    name: "Chilling Step",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453350888456242/chillingstep.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021001,
+    name: "DoT Punisher",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453351576313936/dotpunisher.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 2121052,
+    name: "Megido Flame",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453352230633492/megiddo.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 2111013,
+    name: "Poison Zone (Explosion)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453353044320356/poisonregion.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400051038,
+    name: "ICBM (Contaminated Zone)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156453358232670289/icbm.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
