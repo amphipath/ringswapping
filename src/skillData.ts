@@ -789,7 +789,7 @@ const skillData: SkillData[] = [
     kmsVideoUrl: "",
   },
   {
-    id: 400051038,
+    id: 400051024,
     name: "ICBM (Contaminated Zone)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453358232670289/icbm.mp4",
