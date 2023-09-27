@@ -795,6 +795,166 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453358232670289/icbm.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 400041029,
+    name: "Surplus Overload",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584947738497094/surplusoverload.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021092,
+    name: "Salamander Mischief",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584949881774131/salamandermischief.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031044,
+    name: "Royal Rumble",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584951182020608/royalknights.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 24121052,
+    name: "Rose Carte Finale",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584951781797938/rosecartefinale.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021041,
+    name: "Punishing Resonator",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584952679387166/punishingresonator.mp4",
+    kmsVideoUrl: "",
+    remarks:
+      "The Dark version is demonstrated, but all versions have the same issue in SEA.",
+  },
+  {
+    id: 36001005,
+    name: "Pinpoint Rocket",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584953702789220/pinpointrocket.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041057,
+    name: "Photon Ray",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584954369679460/photonray.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 27121201,
+    name: "Morning Star",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584955753803826/morningstar.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 21121057,
+    name: "Maha's Domain",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584956366168174/mahadomain.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 37111000,
+    name: "Charging Arm: Smash (Shockwave)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585049123209236/hammersmash.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021042,
+    name: "Incarnate's Anger (Fox)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585049790087318/flamedischargefox.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 33121016,
+    name: "Drill Container Unit",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585050377297930/drillcontainer.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400011090,
+    name: "Dimension Sword (Rapid Spin)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585051077754920/dimensionalsword.mp4",
+    kmsVideoUrl: "",
+    remarks:
+      "The slow attacking version of Dimension Sword does not cause the issue.",
+  },
+  {
+    id: 24120002,
+    name: "Carte Noire",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585051962736670/cartenoire.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 12121001,
+    name: "Blazing Extinction",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585052751274105/blazingextinction.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041022,
+    name: "Black Jack",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585053409787954/blackjack.mp4",
+    kmsVideoUrl: "",
+    remarks:
+      "The final attacks of the cards as they disappear put the caster into combat state which does not count as an issue; the issue is primarily from the bouncing.",
+  },
+  {
+    id: 31201001,
+    name: "Bat Swarm",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585054080860261/batswarm.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 33111013,
+    name: "Assistant Hunting Unit",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585056106717294/assistanthuntingunit.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 36111004,
+    name: "Aegis System",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585056597459026/aegissystem.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021047,
+    name: "Black Magic Altar",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585114684358786/blackmagicaltar.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 20031210,
+    name: "Judgment Draw",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156585115271569438/judgmentdraw.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 31221001,
+    name: "Shield Chasing",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156584948426350623/shieldchasing.mp4",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
