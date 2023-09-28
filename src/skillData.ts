@@ -608,7 +608,7 @@ const skillData: SkillData[] = [
   },
   {
     id: 400041069,
-    name: "72 Transformations",
+    name: "72 Transformations (Leader)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453266729730079/72t.mp4",
     kmsVideoUrl: "",
@@ -953,6 +953,129 @@ const skillData: SkillData[] = [
     name: "Shield Chasing",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584948426350623/shieldchasing.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041069,
+    name: "72 Transformations (Allies)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791514224144404/72tally.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400031062,
+    name: "Thanatos Descent (Realm of Death)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791515012661279/thanatos2.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 142110011,
+    name: "Tele Kinesis",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791515797012490/telekinesis.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 64121001,
+    name: "Chain Arts: Takedown",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791516556165210/takedown.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 64101002,
+    name: "Weapon Arts: Shuriken Bomb",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791517353099375/shuriken.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021008,
+    name: "Psychic Tornado (Continuous attack)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791518158401566/psychictornado.mp4",
+    kmsVideoUrl: "",
+    remarks:
+      "The finishing attack puts the user in a combat state and does not qualify as causing this issue.",
+  },
+  {
+    id: 142101009,
+    name: "Psychic Drain",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791519215370270/psychicdrain.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021074,
+    name: "Ultimate - Psychic Bullet (Micro Black Hole)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791519882248212/psychicbullet.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041074,
+    name: "Chain Nirvana",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791520578519050/chainnirvana.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 142121030,
+    name: "Mental Tempest (continuous attack)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791521450917918/mentaltempestcont.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 142121030,
+    name: "Mental Tempest (Final attack)",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791592695382076/mentaltempestfinal.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041041,
+    name: "Chain Arts: Maelstrom",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791593676832858/maelstrom.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041035,
+    name: "Chain Arts: Fury",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791594427633745/fury.mp4",
+    kmsVideoUrl: "",
+    remarks:
+      "In the MSEA clip, A.D. Ordnance is also dealing damage, but as shown above, the continuous charging attack does not block equipment swapping so Chain Arts: Fury is the only other possible cause.",
+  },
+  {
+    id: 142121005,
+    name: "Ultimate - B.P.M.",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791595136463009/bpm.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400041033,
+    name: "A.D. Ordnance",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791595778179123/adordnance.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021048,
+    name: "Ultimate - Moving Matter",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791597267177512/ultimatemovingmatter.mp4",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 142111007,
+    name: "Ultimate - Train",
+    mseaVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156791597837598720/ultimatetrainpre.mp4",
     kmsVideoUrl: "",
   },
 ];
