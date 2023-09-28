@@ -8,7 +8,7 @@ export function displaySkill(skill: SkillData) {
     header.appendChild(getImage(skill));
   }
   const headerText = document.createElement("span");
-  headerText.innerText = `${skill.name} (${skill.id})`;
+  headerText.innerText = `${skill.name}${skill.id ? ` (${skill.id})` : ""}`;
   headerText.className = "align-middle";
   header.appendChild(headerText);
   content.appendChild(header);
