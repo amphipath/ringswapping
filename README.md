@@ -20,6 +20,7 @@ When recording, take note of the following:
 - If recording the bugged (MSEA) state, make sure that the chatbox doesn't already have the message so that it's clearer that the erroneous message is popping out.
 - Make sure that you record at least one attempt to change equips while your character is at a resting (non-combat) state, and that the message pops up when you do so.
 - When recording the non-bugged (KMS) state, make sure to demonstrate that it is possible to change equips as soon as the character is in a resting state; don't wait too long after. The important thing here is that we want to capture the convenience of KMS where we can ring-swap ASAP, and that this error in MSEA is inhibiting that.
+- It is not necessary to isolate sources of damage while recording the KMS state. In fact, if a recording shows it's possible to change equips when a Shuriken Bomb activates both Chain Arts: Fury and Weapon Variety, then the same recording can be reused for all 3 skills, saving quite a bit of effort.
 - For cleanliness of presentation, avoid changing equips in combat state (producing the blue window in the middle of the screen), which will muddle up the bug report.
 
 If using ShareX, record as .mp4 and upload to Discord (just uploading it in any server in Discord and then sharing the `cdn.discordapp.com` link is fine). Do not record as .gif as it will increase file size dramatically, which will affect the loading of the page.
