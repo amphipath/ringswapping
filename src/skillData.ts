@@ -967,7 +967,8 @@ const skillData: SkillData[] = [
     name: "Thanatos Descent (Realm of Death)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791515012661279/thanatos2.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1156815521434578975/thanatosdescentkms.mp4",
   },
   {
     id: 142110011,
