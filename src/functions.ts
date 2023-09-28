@@ -23,12 +23,20 @@ export function displaySkill(skill: SkillData) {
   const body = document.createElement("div");
   body.className =
     "container d-flex justify-content-around align-items-center flex-wrap";
-  body.innerHTML = `<div>
+  body.innerHTML = `<div class="container w-50">
      <strong>MSEA</strong>
      <br />
-     <video src="${skill.mseaVideoUrl}" loop="true" muted autoplay height=300 />
+     ${
+       skill.mseaVideoUrl
+         ? `<video src="${skill.mseaVideoUrl}" loop="true" muted autoplay height=300 />`
+         : `<p>Recording for MSEA cannot be made because this skill is activated together with other skills that are known to cause the issue or put the user in combat state, 
+      hence we cannot isolate it to be 100% certain that it causes the issue. 
+      However it is suspected to cause the issue due to falling in the same pattern of being an indirect attack, 
+      and if there is proof from KMS that this skill doesn't prevent equip swapping in KMS, please do make sure that it does not in MSEA as well.</p>`
+     }
+     
      </div>
-     <div>
+     <div class="container w-50"> 
      <strong>KMS</strong>
      <br />
      ${

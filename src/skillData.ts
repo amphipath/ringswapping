@@ -1078,6 +1078,18 @@ const skillData: SkillData[] = [
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791597837598720/ultimatetrainpre.mp4",
     kmsVideoUrl: "",
   },
+  {
+    id: 64120006,
+    name: "Weapon Variation III",
+    mseaVideoUrl: "",
+    kmsVideoUrl: "",
+  },
+  {
+    id: 400021096,
+    name: "Law of Gravity",
+    mseaVideoUrl: "",
+    kmsVideoUrl: "",
+  },
 ];
 
 skillData.sort((a: SkillData, b: SkillData) => a.id - b.id);
