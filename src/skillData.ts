@@ -140,7 +140,8 @@ const skillData: SkillData[] = [
     name: "Cygnus Phalanx",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146256651482046465/phalanx.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816482852503562/k_cygphalanx.mp4",
     remarks:
       "Note: Guided Arrow is attacking in the MSEA clip, but it has previously been fixed and no longer causes the issue.",
   },
@@ -149,21 +150,24 @@ const skillData: SkillData[] = [
     name: "Frenzied Winds",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146257401222266960/frenzied.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816345468080178/kwb_frenziedwinds.mp4",
   },
   {
     id: 400031058,
     name: "Vortex Sphere",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146258403216339024/vortex.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816344864112732/kwb_vortexsphere.mp4",
   },
   {
     id: 400031003,
     name: "Howling Gale",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146259058177888286/howling.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816345874923520/kwb_howlinggale.mp4",
   },
   {
     id: 3101009,
@@ -196,21 +200,24 @@ const skillData: SkillData[] = [
     name: "Silhouette Mirage",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146757701431468093/silhouette.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815793757716561/abm_illusionaryshotsilhouettemirage.mp4",
   },
   {
     id: 400031020,
     name: "Illusionary Shot",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146758280463532142/illusionary.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815793757716561/abm_illusionaryshotsilhouettemirage.mp4",
   },
   {
     id: 400031002,
     name: "Arrow Rain",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1146758636484427887/arrowrain.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815792910483567/abm_arrowrain.mp4",
   },
   {
     id: 4211006,
@@ -298,7 +305,8 @@ const skillData: SkillData[] = [
     name: "Storm Winds",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179163766247524/stormwinds.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816346520850442/kwb_stormwinds.mp4",
   },
   {
     id: 65121052,
@@ -320,7 +328,8 @@ const skillData: SkillData[] = [
     name: "Trifling Winds",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179166693871737/triflingwind.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816344029429931/kwb_trifling.mp4",
   },
   {
     id: 400051072,
@@ -496,7 +505,8 @@ const skillData: SkillData[] = [
     name: "Sword Illusion",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147918823102631946/test.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815792365211740/ahero_swordillusion.mp4",
   },
   {
     id: 400041048,
@@ -532,7 +542,8 @@ const skillData: SkillData[] = [
     name: "Shadow Bat",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148637805854076988/nw.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816303743156244/knw_shadowbat.mp4",
   },
 
   {
@@ -540,14 +551,16 @@ const skillData: SkillData[] = [
     name: "Enhanced Shadow Bat",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148917720872669184/shadowbatenhance.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1158038734160281600/enhancedshadowbat.mp4",
   },
   {
     id: 14121016,
     name: "Ravenous Bat",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148638539035193404/ravenous.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816303151763555/knw_ravenousbat.mp4",
   },
   {
     id: 400011010,
@@ -561,14 +574,16 @@ const skillData: SkillData[] = [
     name: "Elysion (Crack)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1153327938402537583/elysionrift.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816300098310214/ksm_elysion.mp4",
   },
   {
     id: 11121018,
     name: "Cosmic Burst",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1153327937261670530/cosmicburst.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816305290858579/ksm_cosmicburst.mp4",
     remarks: "Also applies to the auto-cast",
   },
   {
@@ -576,14 +591,16 @@ const skillData: SkillData[] = [
     name: "Sea Wave",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1153327939451097120/seawave.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816304644915280/ksk_seawave.mp4",
   },
   {
     id: 0,
     name: "Getting hit by self-destructing summons",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453263667892234/hitbyantiafk.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816482177228891/xexploding.mp4",
   },
   {
     id: 5201012,
@@ -611,7 +628,8 @@ const skillData: SkillData[] = [
     name: "72 Transformations (Leader)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453266729730079/72t.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815980987252817/asdw_72ta.mp4",
   },
   {
     id: 4121017,
@@ -625,28 +643,32 @@ const skillData: SkillData[] = [
     name: "Triumph Feather",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453268126437406/triumphfeather.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815794374295663/absp_triumpfeather.mp4",
   },
   {
     id: 400021030,
     name: "Thunder Break",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453268784939038/thunderbreak.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815919712686182/ail_thunderbreak.mp4",
   },
   {
     id: 400041038,
     name: "Dark Lord's Secret Scroll (Shurikens)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453269623820399/secretscroll.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815914738229278/anl_darklordsecretscroll.mp4",
   },
   {
     id: 400031036,
     name: "Raven Tempest",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453270500413491/raventempest.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815982081986560/apf_raventempest.mp4",
   },
   {
     id: 400051074,
@@ -660,7 +682,8 @@ const skillData: SkillData[] = [
     name: "Poison Pandemic",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453294428930098/poisonpandemic.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815797499039805/afp_poisonchain.mp4",
   },
   {
     id: 400021028,
@@ -688,63 +711,72 @@ const skillData: SkillData[] = [
     name: "Mighty Mjolnir",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453297083920404/mightymjolnir.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815916361437194/apala_mightymjolnir.mp4",
   },
   {
     id: 4120018,
     name: "Mark of Night Lord",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453297683693639/markofnl.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815915744862371/anl_markofnightlord.mp4",
   },
   {
     id: 400021094,
     name: "Jupiter Thunder",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453298447073310/jupiterthunder.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815918936727652/ail_jupiterthunder.mp4",
   },
   {
     id: 2101010,
     name: "Ignite",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453299101380639/ignite.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815796140097646/afp_ignite.mp4",
   },
   {
     id: 400021002,
     name: "Ice Age",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453299705348126/iceage.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815918412443669/ail_iceage.mp4",
   },
   {
     id: 400041020,
     name: "Fuma Shuriken",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453346111144026/fuuma.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815915187032124/anl_fumashuriken.mp4",
   },
   {
     id: 2221012,
     name: "Frozen Orb",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453346887082054/frozenorb.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815917644894228/ail_frozenorb.mp4",
   },
   {
     id: 2121054,
     name: "Fire Aura",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453347457499176/fireaura.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815795494162452/afp_fireAura.mp4",
   },
   {
     id: 400031039,
     name: "Obsidian Barrier (Blast)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453348338319441/blastbarrier.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815981595439114/apf_obsidianbarrierblast.mp4",
   },
   {
     id: 400051008,
@@ -758,35 +790,40 @@ const skillData: SkillData[] = [
     name: "Split Mistel (Magic Arrows)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453349844058183/splitmistel.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815982438482052/apf_splitmistel.mp4",
   },
   {
     id: 2201009,
     name: "Chilling Step",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453350888456242/chillingstep.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815916998963251/ail_chillingstep.mp4",
   },
   {
     id: 400021001,
     name: "DoT Punisher",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453351576313936/dotpunisher.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815795016007690/afp_dotpunisher.mp4",
   },
   {
     id: 2121052,
     name: "Megido Flame",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453352230633492/megiddo.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815796727283775/afp_megido.mp4",
   },
   {
     id: 2111013,
     name: "Poison Zone (Explosion)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453353044320356/poisonregion.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815798425993327/afp_poisonzone.mp4",
   },
   {
     id: 400051024,
@@ -821,14 +858,16 @@ const skillData: SkillData[] = [
     name: "Rose Carte Finale",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584951781797938/rosecartefinale.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816053288665190/hphan_rosecartefinale.mp4",
   },
   {
     id: 400021041,
     name: "Punishing Resonator",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584952679387166/punishingresonator.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816055155150898/hlumi_punishingresonator.mp4",
     remarks:
       "The Dark version is demonstrated, but all versions have the same issue in SEA.",
   },
@@ -851,14 +890,16 @@ const skillData: SkillData[] = [
     name: "Morning Star",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584955753803826/morningstar.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816054509211748/hlumi_morningstar.mp4",
   },
   {
     id: 21121057,
     name: "Maha's Domain",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584956366168174/mahadomain.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816053871693864/haran_mahasdomain.mp4",
   },
   {
     id: 37111000,
@@ -872,7 +913,8 @@ const skillData: SkillData[] = [
     name: "Incarnate's Anger (Fox)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585049790087318/flamedischargefox.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816301339824268/kfw_incarnatesangerfox.mp4",
   },
   {
     id: 33121016,
@@ -895,21 +937,24 @@ const skillData: SkillData[] = [
     name: "Carte Noire",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585051962736670/cartenoire.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816056677662720/hphan_cartenoir.mp4",
   },
   {
     id: 12121001,
     name: "Blazing Extinction",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585052751274105/blazingextinction.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816300761006160/kfw_blazingextinction.mp4",
   },
   {
     id: 400041022,
     name: "Black Jack",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585053409787954/blackjack.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816055733948476/hphan_blackjack.mp4",
     remarks:
       "The final attacks of the cards as they disappear put the caster into combat state which does not count as an issue; the issue is primarily from the bouncing.",
   },
@@ -946,7 +991,9 @@ const skillData: SkillData[] = [
     name: "Judgment Draw",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585115271569438/judgmentdraw.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157816057285857300/hphan_judgementdraw.mp4",
+    remarks: "Also applies to the auto-cast version of the skill.",
   },
   {
     id: 31221001,
@@ -960,7 +1007,8 @@ const skillData: SkillData[] = [
     name: "72 Transformations (Allies)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791514224144404/72tally.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815980987252817/asdw_72ta.mp4",
   },
   {
     id: 400031062,
