@@ -534,7 +534,7 @@ const skillData: SkillData[] = [
     id: 164101003,
     name: "Phantasmal Clone Talisman",
     mseaVideoUrl:
-      "hhttps://cdn.discordapp.com/attachments/1146108616076693655/1148599894219690126/talismanclone.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1148599894219690126/talismanclone.mp4",
     kmsVideoUrl: "",
   },
   {
