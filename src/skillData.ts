@@ -646,7 +646,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453266729730079/72t.mp4",
     kmsVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815980987252817/asdw_72ta.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159831478637695066/72t.mp4",
   },
   {
     id: 4121017,
@@ -1036,7 +1036,7 @@ const skillData: SkillData[] = [
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791514224144404/72tally.mp4",
     kmsVideoUrl:
-      "https://cdn.discordapp.com/attachments/1146108616076693655/1157815980987252817/asdw_72ta.mp4",
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159831478637695066/72t.mp4",
   },
   {
     id: 400031062,
@@ -1101,7 +1101,8 @@ const skillData: SkillData[] = [
     name: "Chain Nirvana",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791520578519050/chainnirvana.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159831477983391744/nirvana.mp4",
   },
   {
     id: 142121030,
@@ -1173,7 +1174,8 @@ const skillData: SkillData[] = [
     id: 64120006,
     name: "Weapon Variation III",
     mseaVideoUrl: "",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159831477983391744/nirvana.mp4",
   },
   {
     id: 400021096,
