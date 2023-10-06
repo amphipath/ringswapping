@@ -321,7 +321,8 @@ const skillData: SkillData[] = [
     name: "Thanatos's Descent (Arrows of Death)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179165934686308/thanatosarrows.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159820260078256128/thanatosdescentarrows.mp4",
   },
   {
     id: 13101022,
@@ -351,14 +352,16 @@ const skillData: SkillData[] = [
     name: "[Revelation] Scattering Shot",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179220771016714/pscatter.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512628650053732/nkain_revescatteringshot.mp4",
   },
   {
     id: 63110103,
     name: "[Revelation] Shaft Break",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179222067052544/pshaft.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512629270814790/nkain_reveshaftbreak.mp4",
   },
   {
     id: 154110001,
@@ -372,7 +375,8 @@ const skillData: SkillData[] = [
     name: "Shaft Break",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179223895769160/shaft_break.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512629904158780/nkain_shaftbreak.mp4",
   },
   {
     id: 65111007,
@@ -395,14 +399,16 @@ const skillData: SkillData[] = [
     name: "Dragon Fang",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179305252688014/dragonfang.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512631682539520/nkain_dragonfang.mp4",
   },
   {
     id: 400031066,
     name: "Grip of Agony",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147179306183835678/grip.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159820258903855195/t_gripofagony.mp4",
   },
   {
     id: 400041082,
@@ -431,35 +437,40 @@ const skillData: SkillData[] = [
     name: "Inferno Breath (Trail of Fire)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147902691679416361/2023-09-03_22-25-18.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512665677373480/nks_infernobreath.mp4",
   },
   {
     id: 400011118,
     name: "Dragon Inferno (Fireball)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147902692925128834/2023-09-03_22-27-13.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512666965028967/nks_tempestbladesdevastatedragoninferno.mp4",
   },
   {
     id: 61111100,
     name: "Wingbeat",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147902694179229746/2023-09-03_22-27-38.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512668659523705/nks_wingbeat.mp4",
   },
   {
     id: 400011058,
     name: "Tempest Blades: Devastate",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147902695840165968/2023-09-03_22-29-48.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512666965028967/nks_tempestbladesdevastatedragoninferno.mp4",
   },
   {
     id: 61101009,
     name: "Tempest Blades: Charge",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1147902696813248542/2023-09-03_22-33-30.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512666415579186/nks_tempestbladescharge.mp4",
   },
   {
     id: 400011134,
@@ -521,21 +532,24 @@ const skillData: SkillData[] = [
     name: "Mystic Energy: Advent of Rebellious Power (Advent of the Gods)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148599891979948053/advent.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512602242732042/mhy_advent.mp4",
   },
   {
     id: 400041063,
     name: "Mystic Energy: Illusion of Heaven, Earth and Human",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148599893334708274/heavenhumanearth.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512603115126904/mhy_mysticenergyillusions.mp4",
   },
   {
     id: 164101003,
     name: "Phantasmal Clone Talisman",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1148599894219690126/talismanclone.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512603832373348/mhy_phantasmalclonetalisman.mp4",
   },
   {
     id: 14001027,
@@ -567,7 +581,8 @@ const skillData: SkillData[] = [
     name: "Demon Frenzy",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1150850115620319313/MapleStory_USB49PE0Mg.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512670991564850/rda_demonfrenzy.mp4",
   },
   {
     id: 400011065,
@@ -607,7 +622,8 @@ const skillData: SkillData[] = [
     name: "Summon Crew",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453264410279957/summoncrew.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512378354970744/acpt_summoncrew.mp4",
   },
   {
     id: 400051040,
@@ -621,7 +637,8 @@ const skillData: SkillData[] = [
     name: "Death Trigger",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453266004119622/deathtrigger.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512377792938135/acpt_deathtrigger.mp4",
   },
   {
     id: 400041069,
@@ -636,7 +653,8 @@ const skillData: SkillData[] = [
     name: "Showdown Challenge (Shurikens)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156453267396644934/showdown.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512377063125153/anl_showdownchallengeshurikens.mp4",
   },
   {
     id: 2311015,
@@ -837,7 +855,8 @@ const skillData: SkillData[] = [
     name: "Surplus Overload",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584947738497094/surplusoverload.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512715304378470/rxn_surplusoverload.mp4",
   },
   {
     id: 400021092,
@@ -876,14 +895,16 @@ const skillData: SkillData[] = [
     name: "Pinpoint Rocket",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584953702789220/pinpointrocket.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512719523856446/rxn_pinpointmark.mp4",
   },
   {
     id: 400041057,
     name: "Photon Ray",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584954369679460/photonray.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512718903091310/rxn_photonray.mp4",
   },
   {
     id: 27121201,
@@ -906,7 +927,8 @@ const skillData: SkillData[] = [
     name: "Charging Arm: Smash (Shockwave)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585049123209236/hammersmash.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512669309644952/rblaster_chargingarmsmash.mp4",
   },
   {
     id: 400021042,
@@ -921,14 +943,16 @@ const skillData: SkillData[] = [
     name: "Drill Container Unit",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585050377297930/drillcontainer.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512716407480420/rwh_drillcontainerunit.mp4",
   },
   {
     id: 400011090,
     name: "Dimension Sword (Rapid Spin)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585051077754920/dimensionalsword.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512671817834516/rda_dimensionsword.mp4",
     remarks:
       "The slow attacking version of Dimension Sword does not cause the issue.",
   },
@@ -963,21 +987,24 @@ const skillData: SkillData[] = [
     name: "Bat Swarm",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585054080860261/batswarm.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512670223999086/rda_batswarm.mp4",
   },
   {
     id: 33111013,
     name: "Assistant Hunting Unit",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585056106717294/assistanthuntingunit.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512715899977808/rwh_assistanthuntingunit.mp4",
   },
   {
     id: 36111004,
     name: "Aegis System",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156585056597459026/aegissystem.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512717065994260/rxn_aegissystem.mp4",
   },
   {
     id: 400021047,
@@ -1000,7 +1027,8 @@ const skillData: SkillData[] = [
     name: "Shield Chasing",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156584948426350623/shieldchasing.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512664955961415/rda_shieldchasing.mp4",
   },
   {
     id: 400041069,
@@ -1023,28 +1051,32 @@ const skillData: SkillData[] = [
     name: "Tele Kinesis",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791515797012490/telekinesis.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512458776563712/kin_telekinesis.mp4",
   },
   {
     id: 64121001,
     name: "Chain Arts: Takedown",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791516556165210/takedown.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159820258291490890/t_takedown.mp4",
   },
   {
     id: 64101002,
     name: "Weapon Arts: Shuriken Bomb",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791517353099375/shuriken.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512601059926046/ncdn_shurikenbomb.mp4",
   },
   {
     id: 400021008,
     name: "Psychic Tornado (Continuous attack)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791518158401566/psychictornado.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512457988022293/kin_psychictornado.mp4",
     remarks:
       "The finishing attack puts the user in a combat state and does not qualify as causing this issue.",
   },
@@ -1053,14 +1085,16 @@ const skillData: SkillData[] = [
     name: "Psychic Drain",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791519215370270/psychicdrain.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512457606336563/kin_psychicdrain.mp4",
   },
   {
     id: 400021074,
     name: "Ultimate - Psychic Bullet (Micro Black Hole)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791519882248212/psychicbullet.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512460336844810/kin_ultimatepsychicbulletblackhole.mp4",
   },
   {
     id: 400041074,
@@ -1074,28 +1108,32 @@ const skillData: SkillData[] = [
     name: "Mental Tempest (continuous attack)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791521450917918/mentaltempestcont.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512456931057815/kin_mentaltempestboth.mp4",
   },
   {
     id: 142121030,
     name: "Mental Tempest (Final attack)",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791592695382076/mentaltempestfinal.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512456931057815/kin_mentaltempestboth.mp4",
   },
   {
     id: 400041041,
     name: "Chain Arts: Maelstrom",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791593676832858/maelstrom.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159820257750421504/t_maelstrom.mp4",
   },
   {
     id: 400041035,
     name: "Chain Arts: Fury",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791594427633745/fury.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159820256601178132/t_adordnance.mp4",
     remarks:
       "In the MSEA clip, A.D. Ordnance is also dealing damage, but as shown above, the continuous charging attack does not block equipment swapping so Chain Arts: Fury is the only other possible cause.",
   },
@@ -1104,28 +1142,32 @@ const skillData: SkillData[] = [
     name: "Ultimate - B.P.M.",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791595136463009/bpm.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512459481194640/kin_ultimatebpm.mp4",
   },
   {
     id: 400041033,
     name: "A.D. Ordnance",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791595778179123/adordnance.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512604599918723/ncdn_adordnance.mp4",
   },
   {
     id: 400021048,
     name: "Ultimate - Moving Matter",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791597267177512/ultimatemovingmatter.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512667917140110/nks_ultimatemovingmatter.mp4",
   },
   {
     id: 142111007,
     name: "Ultimate - Train",
     mseaVideoUrl:
       "https://cdn.discordapp.com/attachments/1146108616076693655/1156791597837598720/ultimatetrainpre.mp4",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512455618252950/kin_ultimatetrain.mp4",
   },
   {
     id: 64120006,
@@ -1137,7 +1179,8 @@ const skillData: SkillData[] = [
     id: 400021096,
     name: "Law of Gravity",
     mseaVideoUrl: "",
-    kmsVideoUrl: "",
+    kmsVideoUrl:
+      "https://cdn.discordapp.com/attachments/1146108616076693655/1159512456251576390/kin_lawofgravity.mp4",
   },
 ];
 
